@@ -88,7 +88,3 @@ Once you have completed your testing, you should analyze the results and make an
 
 It is also important to test your auto scaling configuration on a regular basis to ensure that it continues to perform as expected. This might include testing your configuration after making changes to your application, or after adding new resources to your infrastructure.
 
-### Related Stories
-- [[Building a serverless architecture on AWS](https://medium.com/towards-aws/building-a-serverless-architecture-on-aws-1784e6381512)]
-- [[AppDev on AWS: Accelerating Application Development with Managed Services](https://medium.com/@kylejones_47003/appdev-on-aws-accelerating-application-development-with-managed-services-bd263c30e30f)]
-- [[Infrastructure as Code with CloudFormation on AWS](https://medium.com/@kylejones_47003/infrastructure-as-code-with-cloudformation-on-aws-1a5b2323b96a)]
